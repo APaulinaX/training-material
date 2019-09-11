@@ -23,7 +23,7 @@ contributors:
 # Introduction
 {:.no_toc}
 
-The field of cancer genomics has demonstrated the power of massively parallel sequencing techniques to inform on genes and specific alterations that drive tumor onset and progression. Although large comprehensive sequence data sets continue to be made increasingly available, data analysis remains an ongoing challenge, particularly for laboratories lacking dedicated resources and bioinformatics expertise. To address this, we have provide training based on Galaxy tools EWAS suite that represent many popular algorithms for detecting somatic genetic alterations from cancer genome and exome data.
+The field of cancer genomics has demonstrated the power of massively parallel sequencing techniques to inform on genes and specific alterations that drive tumor onset and progression. Although large comprehensive sequence data sets continue to be made increasingly available, data analysis remains an ongoing challenge, particularly for laboratories lacking dedicated resources and bioinformatics expertise. To address this, we have provided training based on Galaxy tools EWAS suite that represent many popular algorithms for detecting somatic genetic alterations from cancer genome and exome data.
 
 ![epimechanism](../../images/Epigenetic_mechanisms.jpg "How epigenetics mechanism can effect health (adapted from https://commonfund.nih.gov/epigenomics/figure)")
 
